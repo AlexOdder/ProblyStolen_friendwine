@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+  </Configurations>
+  <Project Path="ProblyStolen_friendwine/ProblyStolen_friendwine.csproj">
+    <Platform Solution="*|Any CPU" Project="AnyCPU" />
+  </Project>
+</Solution>
